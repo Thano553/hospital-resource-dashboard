@@ -1,0 +1,13 @@
+Date,Department,Bed_Occupancy,Length_of_Stay,Doctor_Utilization,Outcome
+2025-01-01,ICU,85,6,78,Recovered
+2025-01-02,ICU,88,7,80,Recovered
+2025-01-03,ICU,90,8,82,Transferred
+2025-01-01,Emergency,92,3,88,Recovered
+2025-01-02,Emergency,95,4,90,Recovered
+2025-01-03,Emergency,93,3,87,Deceased
+2025-01-01,OPD,60,1,55,Recovered
+2025-01-02,OPD,62,1,58,Recovered
+2025-01-03,OPD,65,2,60,Recovered
+2025-01-01,General Ward,70,4,65,Recovered
+2025-01-02,General Ward,72,5,68,Recovered
+2025-01-03,General Ward,75,5,70,Transferred
